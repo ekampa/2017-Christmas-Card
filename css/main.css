@@ -110,7 +110,7 @@ ul li {
 	 Header
 -------------------------------------------------------------------------------*/
 #header {
-	position: fixed;
+	position: absolute;
 	width: 100%;
 	z-index: 999;
 }
